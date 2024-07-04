@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hiii, hope you have a nice day, Caw :)
+                    omelet, toast, bacon and you ?
                 </div>
 
                 <div class="links">
-                    <a href="https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs?si=49868470fa244ab6">CLICK HERE</a>
+                    <a href="https://open.spotify.com/playlist/4CwlFrigFQt1dZDeAgdsfb?si=183278b3e1b24c0f">CLICK HERE</a>
                 </div>
             </div>
         </div>
