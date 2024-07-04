@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    omelet, toast, bacon and you ?
+                    omelet, toast, bacon and you :)
                 </div>
 
                 <div class="links">
