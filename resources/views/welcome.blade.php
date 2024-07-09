@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    omelet, toast, bacon and you :)
+                    Hope u have a nice day :)
                 </div>
 
                 <div class="links">
-                    <a href="https://open.spotify.com/playlist/4CwlFrigFQt1dZDeAgdsfb?si=183278b3e1b24c0f">CLICK HERE</a>
+                    <a href="https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI?si=f5cdf137366749ed">BRUNCH?</a>
                 </div>
             </div>
         </div>
