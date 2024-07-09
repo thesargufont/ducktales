@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hope u have a nice day :)
+                    Hope u have a nice day :) 
                 </div>
 
                 <div class="links">
-                    <a href="https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI?si=f5cdf137366749ed">BRUNCH?</a>
+                    <a href="https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI?si=f5cdf137366749ed">1</a>
                 </div>
             </div>
         </div>
