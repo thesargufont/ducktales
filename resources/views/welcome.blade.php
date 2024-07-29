@@ -64,7 +64,7 @@
         </style>
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
+        <div class="flex-center position-ref full-height" style="overflow:scroll; height:100%;">
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
