@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hope u have a nice day :) 
+                    Even if we r not where we hope to be yet, may we see all the ways we r still growing. Hope u have a nice day Tia :3 
                 </div>
 
                 <div class="links">
-                    <a href="https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI?si=f5cdf137366749ed">CLICK HERE</a>
+                    <a href="https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05?si=047f7530632a4070">CLICK HERE</a>
                 </div>
             </div>
         </div>
